@@ -1,7 +1,6 @@
-# solidity-tutorial
+# Small DEFI-Example
 
-Use this pre-configured template to learn Solidity.
-
+It's a small example for a DEFI-Application to start with Ethereum-Development. It's just for me to starting with DEFI-Development. This code is widely based on the Coinbase-Tutorial.
 Features:
 
 - Truffle
